@@ -9,7 +9,7 @@
 </head>
 <body>
     <p>Ceci est la page index</p>
-    <p>C'est la ligne 2 de l'index </p>
+    <p>C'est la ligne 2 de l'index 88888</p>
     <p>C'est la ligne 3 de l'index </p>
     <p>C'est la ligne 4 de l'index </p>
 
