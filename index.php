@@ -9,5 +9,6 @@
 </head>
 <body>
     <p>Ceci est la page index</p>
-</body>
+    <p>C'est la ligne 2 de l'index </p>
+</body> 
 </html>
